@@ -1,0 +1,121 @@
+p{
+    text: size 20px;
+}
+.navbar{
+    background-color: #e4a13e;
+}
+input{
+    padding: 10px;
+    border: none;
+    background-color: #ffcc00;
+
+}
+button{
+    color: white;
+    padding: 15px;
+    border: none;
+    background-color: #01a9db;
+}
+.first{
+    background-color:rgb(255, 193, 7);
+    font-size: calc(1.275rem + .3vw)!important;
+
+}
+.firstsub{
+    text-align: left;
+    margin-left: 200px;
+}
+.secondsub{
+    text-align: left;
+    
+    max-width: 920px;
+    font-size: calc(1.275rem + .3vw)!important;
+}
+.double{
+    background-image: url(3.png);
+    height: 400px;
+    width: 400px;
+    display: flex;
+    align-items: center;
+}
+.cover{
+    background-color: #ffcc00;
+    opacity: 60%;
+    height: 100%;
+    width: 100%;
+    align-items: center;
+}
+.content {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:150px;
+    display: flex;
+    align-items: center;
+    height: 20%;
+    width: 20%;
+}
+
+.third{
+    background-color: rgb(255, 193, 7);
+    font-size: calc(1.275rem + .3vw)!important;
+}
+.fourthsub{
+    text-align: right;
+    margin-left:200px;
+    margin-right: 200px;
+    font-size: calc(1.275rem + .3vw)!important;
+}
+.double2{
+    background-image: url(7.png);
+    height: 400px;
+    width: 400px;
+    display: flex;
+    align-items: center;
+}
+.cover2{
+    background-color: #ffcc00;
+    opacity: 60%;
+    height: 100%;
+    width: 100%;
+    align-items: center;
+}
+.content2{
+    margin-top: 150px;
+}
+.fifth{
+    background-color: rgb(255, 193, 7);
+    font-size: calc(1.275rem + .3vw)!important;
+    
+}
+.sixth{
+    font-size: calc(1.275rem + .3vw)!important;
+}
+.seventh{
+    background-image: url(8.png);
+}
+.seventhsub{
+    background-color: #ffcc00;
+    opacity: 85%;
+    height: 100%;
+    width: 100%;
+}
+.eight{
+    font-size: calc(1.275rem + .3vw)!important;
+}
+footer{
+    background-color: rgb(62, 62, 62);
+}
+.foot{
+    display: flex;
+}
+.box1{
+    width:200px;
+    height:50px;
+    background-color: #ffcc00;
+}
+.box2{
+    width:80px;
+    height:50px;
+    background-color:#01a9db;
+}
+
